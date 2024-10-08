@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying a **MSc in Mathematical Modeling at The Technical University of Denmark**
 - 👯 I’m looking to collaborate on **ML/AI Projects**
-- 🌱 I’m currently learning **Rust 🦀**
+- 🌱 I’m currently learning **TinyML 🔎**
 
 
 
