@@ -2,7 +2,7 @@
 
 - 🔭 I’m a **MSc in Mathematical Modeling from The Technical University of Denmark**
 - 👯 I’m looking to collaborate on **ML/AI Projects**
-- 🌱 I’m currently facinated by **Efficient ML, Edge AI, and TinyML 🔎**
+- 🌱 I’m currently facinated by **Efficient ML**
 
 
 
